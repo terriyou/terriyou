@@ -2,9 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terriyou)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={terriyou})](https://solved.ac/{terriyou})
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={terriyou})](https://solved.ac/{terriyou})
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={terriyou})](https://solved.ac/{terriyou})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={terriyou})](https://solved.ac/{terriyou})
 <!--
 **terriyou/terriyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
